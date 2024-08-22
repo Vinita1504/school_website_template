@@ -496,6 +496,12 @@ footer {
         left: 25px;
         cursor: pointer;
     }
+    .nav-logo h1{
+        font-size: 3vh;
+        color: rgb(18, 61, 105);
+        margin-left: 0.5vw;
+        font-weight: 500;
+    }
     .slider{
         position: relative;
         background-color: aqua;
